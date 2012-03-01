@@ -1,4 +1,5 @@
 *.idea/
+stacktrace.log
 *.iml
 *target/
 
