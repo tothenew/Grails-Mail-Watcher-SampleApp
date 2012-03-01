@@ -63,8 +63,8 @@ grails.hibernate.cache.queries = true
 
 grails {
     mailwatcher {
-        email = "youremail"
-        password = "yourpassword"
+        email = "grails.mail.watcher@gmail.com"
+        password = "igdefault"
         readTimeOut = 10000
         folderToRead="Inbox"
         protocol = "imaps"

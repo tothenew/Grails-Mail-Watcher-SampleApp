@@ -26,7 +26,7 @@ environments {
     production {
         dataSource {
             dbCreate = "update"
-            url = "jdbc:h2:prodDb;MVCC=TRUE"
+            url = "jdbc:mysql://localhost/mail_watcher"
             pooled = true
             properties {
                maxActive = -1

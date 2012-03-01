@@ -1,0 +1,9 @@
+
+.nav a.fetch, .fetch {
+}
+
+.fetch, .nav a.home, .nav a.list, .nav a.fetch {
+    background-position: 0.7em center;
+    background-repeat: no-repeat;
+    text-indent: 25px;
+}
